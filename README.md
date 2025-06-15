@@ -1,6 +1,6 @@
 # Sensor Logger – Python GUI Project
 
-A real-time sensor logging simulator with fault detection, trend analysis, and GUI visualization. Designed to mimic aerospace testing systems.
+A real-time sensor logging simulator with fault detection, trend analysis, and GUI visualization. Designed to mimic aerospace testing systems and sensors.
 
 # Features
 - Dual temperature sensor + pressure sensor simulation
