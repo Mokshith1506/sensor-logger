@@ -8,5 +8,5 @@ A real-time sensor logging simulator with fault detection, trend analysis, and G
 - Trend detection (rising/falling/stable)
 - Pause, resume, and stop control
 - CSV & JSON export
-- Post-test summary report
+- Post-test summary report downloadable
 
