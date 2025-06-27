@@ -2,7 +2,7 @@
 
 A real-time sensor logging simulator with fault detection, trend analysis, and GUI visualization. Designed to mimic aerospace testing systems and sensors.
 
-# Features
+# Features:
 - Dual temperature sensor + pressure sensor simulation
 - Redundancy check and sensor fault simulation
 - Trend detection (rising/falling/stable)
