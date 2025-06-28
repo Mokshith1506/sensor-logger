@@ -1,5 +1,6 @@
 import tkinter as tk
 from tkinter import ttk, messagebox
+import numpy
 import random
 import time
 import pandas as pd
